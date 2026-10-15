@@ -3,6 +3,7 @@
 ## Study Tips
 - Take notes during lectures
 - Review material weekly
+- Practice Git commands daily to improve your version control skills.
 
 ## Useful Links
 - [Course website]
